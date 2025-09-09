@@ -1,0 +1,11 @@
+html{
+        background-color: rgb(91%, 41%, 19%);
+        text-align: center;
+    }
+
+input{
+        width: 349px;
+        font-size: medium;
+        font-weight: bold;
+        background-color: #59C1BC;
+    }
